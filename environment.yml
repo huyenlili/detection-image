@@ -1,0 +1,4 @@
+name: env
+channels:
+  - defaults
+prefix: /home/emso/anaconda3/envs/env
